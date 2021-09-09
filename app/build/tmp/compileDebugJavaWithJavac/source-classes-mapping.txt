@@ -1,0 +1,4 @@
+com/cmpe277/lab1/calculator/MainActivity.java
+ com.cmpe277.lab1.calculator.MainActivity
+com/cmpe277/lab1/calculator/BuildConfig.java
+ com.cmpe277.lab1.calculator.BuildConfig

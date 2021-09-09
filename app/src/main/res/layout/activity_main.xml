@@ -8,8 +8,7 @@
     tools:context=".MainActivity"
     tools:layout_editor_absoluteX="0dp"
     tools:layout_editor_absoluteY="51dp">
-
-    <TextView
+      <TextView
         android:id="@+id/calText"
         android:layout_width="393dp"
         android:layout_height="66dp"
